@@ -7,8 +7,9 @@ import org.junit.Test;
 public class Apptest {
 
 	@Test
-	public void test() {
-		assertEquals(8,App.Add(4,4));
+	public void testAdd() {
+		assertEquals(7,App.Add(4,4));
+
 	}
 
 }
