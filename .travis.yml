@@ -6,4 +6,4 @@ install: true
 
 jdk: oraclejdk8
 
-script: mvn Apptest.java
+script: mvn test
