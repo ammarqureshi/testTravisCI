@@ -12,4 +12,9 @@ public class AppTest {
 
 	}
 
+	@Test
+	public void testMult(){
+		assertEquals(12,App.Add(3,4));
+	}
+
 }
