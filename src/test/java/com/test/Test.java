@@ -8,7 +8,7 @@ public class Apptest {
 
 	@Test
 	public void testAdd() {
-		assertEquals(9,App.Add(4,4));
+		assertEquals(19,App.Add(4,4));
 
 	}
 
