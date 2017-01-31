@@ -6,4 +6,4 @@ install: true
 
 jdk: oraclejdk8
 
-script: mvn test
+script: mvn install
