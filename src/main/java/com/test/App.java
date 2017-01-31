@@ -4,6 +4,6 @@ public class App {
 
 
 	public static int Add(int x, int y){
-		return x + y; 3
+		return x + y;
 	}
 }
